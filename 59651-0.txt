@@ -1,31 +1,7 @@
-The Project Gutenberg EBook of The Creation of God, by Jacob Hartmann
-
-This eBook is for the use of anyone anywhere in the United States and most
-other parts of the world at no cost and with almost no restrictions
-whatsoever.  You may copy it, give it away or re-use it under the terms of
-the Project Gutenberg License included with this eBook or online at
-www.gutenberg.org.  If you are not located in the United States, you'll have
-to check the laws of the country where you are located before using this ebook.
-
-Title: The Creation of God
-
-Author: Jacob Hartmann
-
-Release Date: June 1, 2019 [EBook #59651]
-
-Language: English
-
-Character set encoding: ISO-8859-1
-
-*** START OF THIS PROJECT GUTENBERG EBOOK THE CREATION OF GOD ***
+*** START OF THE PROJECT GUTENBERG EBOOK 59651 ***
 
 
 
-
-Produced by Jeroen Hellingman and the Online Distributed
-Proofreading Team at http://www.pgdp.net/ for Project
-Gutenberg (This file was produced from images generously
-made available by The Internet Archive/American Libraries.)
 
 
 
@@ -128,9 +104,9 @@ ILLUSTRATIONS.
 PREFACE.
 
 
-               "Si les nommes étaient capables de gouverner toute
-                la conduite de leur vie par un dessein reglé, si
-                la fortune leur était toujours favorable, leur âme
+               "Si les nommes Ã©taient capables de gouverner toute
+                la conduite de leur vie par un dessein reglÃ©, si
+                la fortune leur Ã©tait toujours favorable, leur Ã¢me
                 serait libre de toute superstition."
 
                                                         --Spinoza, 1650.
@@ -493,7 +469,7 @@ his hard riddles; and when, at last, the rain burst forth, they said
 that the bright sun had slain his enemy, and brought the stream of
 life for the thirsting earth.
 
-Professor Max Müller says: "He begins to lift up his eyes; he stares
+Professor Max MÃ¼ller says: "He begins to lift up his eyes; he stares
 at the tent of heaven, and asks, Who supports it? He opens his ears
 to the winds, and asks them, Whence and whither? He is awakened from
 darkness and slumber by the light of the sun, and him whom his eyes
@@ -607,10 +583,10 @@ earth is also called the world, and that this world is a planet;
 that this planet belongs to a family of planets. This planet of
 ours, this earth, belongs to a system of planets known as the solar
 system. And the solar system is mainly comprised within the limits of
-the Zodiacs. By the Zodiacs is meant a belt of the Celestial Sphere. 8°
+the Zodiacs. By the Zodiacs is meant a belt of the Celestial Sphere. 8Â°
 on each side of the Ecliptic is styled the Zodiac. This division is
 of very high antiquity, having been in use among the Hindoos and
-Egyptians. The Zodiac is divided into twelve equal parts, of 30°
+Egyptians. The Zodiac is divided into twelve equal parts, of 30Â°
 each, called signs, to each of which a fanciful name is given.
 
 The sun is the center. Around him the planets revolve in ellipses.
@@ -986,20 +962,20 @@ mollusca.
 17. Purbeck beds. Limestone, calcareous slate, etc. Roots of trees;
 plants, etc.
 
-G. Oölite.
+G. OÃ¶lite.
 
-18. Upper Oölite. Portland building-stone, sand.
+18. Upper OÃ¶lite. Portland building-stone, sand.
 
-19. Middle Oölite. Oxford clay, dark-blue clay. Large saurians.
+19. Middle OÃ¶lite. Oxford clay, dark-blue clay. Large saurians.
 
-20. Lower Oölite. Preponderance of ganoid fish. Plants chiefly cycads,
+20. Lower OÃ¶lite. Preponderance of ganoid fish. Plants chiefly cycads,
 conifers, and ferns.
 
 
 H. Lias.
 
 21. Argillaceous limestone, marl clay. Mollusca, reptiles, and fish
-analogous to the Oölitic.
+analogous to the OÃ¶litic.
 
 
 I. Trias.
@@ -1125,7 +1101,7 @@ and this is the result:
 
 
 making altogether 72,584 feet; that is, very nearly thirteen and
-three-quarters British miles. Büchner in his work on "Force and Matter"
+three-quarters British miles. BÃ¼chner in his work on "Force and Matter"
 states: "The so-called coal formation alone required, according to
 Bischoff, 1,000,177 years; according to Chevandier's calculation,
 672,788 years. The Tertiary strata required for their development
@@ -1145,9 +1121,9 @@ exceeding slow process, and lasted very many thousand centuries. That
 the earth's crust was not at certain stages of formation in a fit
 condition either to receive or to maintain the higher types of animal
 life, is well known. And we know that man's remains are found only
-in the uppermost surface of the earth's crust. Max Müller says in
+in the uppermost surface of the earth's crust. Max MÃ¼ller says in
 his "Testimony of the Rocks": "It was not until the earlier ages
-of the Oölite system had passed away, that the class of Reptiles
+of the OÃ¶lite system had passed away, that the class of Reptiles
 received its fullest development. And certainly very wonderful was the
 development which it did then receive. Reptiles became everywhere the
 lords and masters of the lower world. When any class of air-breathing
@@ -1165,7 +1141,7 @@ air-breathing animals. The fishes were masters of creation. We may
 therefore call it the Reign of Fishes.
 
 "2. The Secondary age, comprising the Carboniferous, the Trias, the
-Oölite, and the Cretaceous formations. This is the epoch in which
+OÃ¶lite, and the Cretaceous formations. This is the epoch in which
 air-breathing animals first appear. The Reptiles predominated over the
 other classes, and we may therefore call it the 'Reign of Reptiles.'
 
@@ -1198,7 +1174,7 @@ articles of faith, must be left to themselves; so of the naturalists
 with their science; they both proceed by different routes.... The
 same bloody hatred with which science was once persecuted by
 religious fanaticism would revive now, and with it the Inquisition
-and Auto-da-fé, and all the horrors with which a refined zealotism
+and Auto-da-fÃ©, and all the horrors with which a refined zealotism
 has tortured humanity would be resorted to, to satisfy the wishes
 of the theological cutthroats. A man in advance of his age beholds
 the struggle of the contending parties from a high point of view,
@@ -1209,21 +1185,21 @@ certainly will not be long before the battle becomes general. Is the
 victory doubtful? The struggle is unequal; the opponents cannot stand
 against the trenchant arm of physical and physiological Materialism,
 which fights with facts, that everyone can comprehend, while the
-opponents fight with suppositions and presumptions" (Büchner).
+opponents fight with suppositions and presumptions" (BÃ¼chner).
 
 "Science and faith exclude each other" (Virchow).
 
 Fools still cling to faith; wise men find the truth in science.
 
-Note.--Baily's "History of Astronomy," Part I, page 31, § 124, and
+Note.--Baily's "History of Astronomy," Part I, page 31, Â§ 124, and
 Part II, pp. 33, 39, maintains that India has existed as a nation, as
 the records show, 4,320,000 years. The Indians divide this time into
 four principal periods: First period, that of innocence or simplicity,
 1,728,000 years; second period, 276,000; the third period, 864,000;
 and the ages of misfortune about 422,000--Cali-yon-gan period. Similar
 statements are made by Cicero ("De Divinat," I, 19), concerning the
-Chaldeans: "Condemnemus, inquam, hos aut stultitiæ aut vanitatis
-aut imprudentiæ qui 470 millia annorum ut ipsi dicunt monumentis
+Chaldeans: "Condemnemus, inquam, hos aut stultitiÃ¦ aut vanitatis
+aut imprudentiÃ¦ qui 470 millia annorum ut ipsi dicunt monumentis
 comprehensa continent."
 
 
@@ -1453,7 +1429,7 @@ substances known, giving their names, symbols, and combining weight:
 
                     Be       Beryllium      II             9.3
                     Cd       Cadmium        II           112
-                    Cs       Cæsium         I            133
+                    Cs       CÃ¦sium         I            133
                     Cr       Cerium         IV            92
                     D        Didymium       II            95
                     E        Erbium         II           112.6
@@ -1871,7 +1847,7 @@ vibrations are quickly wasted, and renewed strokes are necessary to
 maintain the sound. Like the bell,
 
 
-    "Die Sonne tönt nach alter weise.
+    "Die Sonne tÃ¶nt nach alter weise.
 
 
 "But how is its tone sustained? How is the perennial loss made
@@ -1896,7 +1872,7 @@ wholly different from those possessed by terrestrial matter. If we
 knew the specific heat of the sun, we could calculate its rate of
 cooling. Assuming this to be the same as that of water--the terrestrial
 substance which possesses the highest specific heat--at its present
-rate of emission, the entire mass of the sun would cool down 15,000°
+rate of emission, the entire mass of the sun would cool down 15,000Â°
 Faht. in 5,000 years. In short, if the sun be formed of matter like our
 own, some means must exist of restoring to him his wasted power. The
 facts are so extraordinary, that the soberest hypothesis regarding
@@ -2066,7 +2042,7 @@ it down from one to nine million of years. The time during which
 the earth has generated organic beings is again small, compared
 with the ages during which the world was a mass of molten rocks. The
 experiments of Bischoff upon basalt show that for our globe to cool
-down from 2,000° to 200° centigrade would require 350 millions of
+down from 2,000Â° to 200Â° centigrade would require 350 millions of
 years. And with regard to the period during which the first nebulous
 masses condensed, so as to form our planetary system, conjecture
 must entirely cease. The history of man, therefore, is but a minute
@@ -2827,7 +2803,7 @@ of his flesh?
 
 Verse 25: "And they were both naked, the man and his wife, and were not
 ashamed." What is there extraordinary about that? Savage races up to
-this present time are found in many instances nude. Cæsar describes the
+this present time are found in many instances nude. CÃ¦sar describes the
 Germans as bathing promiscuously in a nude state. Columbus found our
 American Indians nude. Evidently a degree of civilization had already
 been attained when this story was evolved. The story had its origin
@@ -2915,11 +2891,11 @@ may be interesting to some, as showing the uncertainty and inaccuracy:
 
 
                      Hebrew,        4004 B.C.
-                     Septuagint,    5873  ,, 
-                     Talmudistic,   5344  ,, 
-                     Scaliger,      3950  ,, 
-                     Petovias,      3984  ,, 
-                     Dr. Hale,      5411  ,,  etc.
+                     Septuagint,    5873 Â ,,Â 
+                     Talmudistic,   5344 Â ,,Â 
+                     Scaliger,      3950 Â ,,Â 
+                     Petovias,      3984 Â ,,Â 
+                     Dr. Hale,      5411 Â ,,Â  etc.
 
 
 Here we give the genealogy of Adam and his line:
@@ -2927,18 +2903,18 @@ Here we give the genealogy of Adam and his line:
 
         Age.
         930   Adam,         Born 4004     B.C.   Died 3074 B.C.
-              Abel,                               ,,  3875  ,, 
-        912   Seth,          ,,  3874     ,, 
-        905   Enos,          ,,  3769 [5] ,, 
-        910   Cainon,        ,,  3679     ,, 
-        895   Mahaloled,     ,,  3609     ,, 
-        962   Jared,         ,,  3544     ,, 
-        815   Enos,          ,,  3282     ,, 
-        969   Methuselah,    ,,  3317     ,, 
-        777   Lamech,        ,,  3130     ,, 
-        365   Enoch,         ,,  3017     ,,   (Translated?)
-        815   Noah,          ,,  2948     ,,   500 bef. flood. }
-                                               315 aft.   ,,   }
+              Abel,                              Â ,,Â  3875 Â ,,Â 
+        912   Seth,         Â ,,Â  3874    Â ,,Â 
+        905   Enos,         Â ,,Â  3769 [5] ,,Â 
+        910   Cainon,       Â ,,Â  3679    Â ,,Â 
+        895   Mahaloled,    Â ,,Â  3609    Â ,,Â 
+        962   Jared,        Â ,,Â  3544    Â ,,Â 
+        815   Enos,         Â ,,Â  3282    Â ,,Â 
+        969   Methuselah,   Â ,,Â  3317    Â ,,Â 
+        777   Lamech,       Â ,,Â  3130    Â ,,Â 
+        365   Enoch,        Â ,,Â  3017    Â ,,Â   (Translated?)
+        815   Noah,         Â ,,Â  2948    Â ,,Â   500 bef. flood. }
+                                               315 aft. Â Â ,,Â Â  }
 
 
 We may venture to make a very strong interrogation mark after these
@@ -3524,7 +3500,7 @@ were visible both at land and sea, as well as those that happened to
 the sun and moon and all the heavenly bodies. 'If,' said he, 'these
 bodies had power of their own, they would certainly take care of their
 own regular motions; but since they do not preserve such regularity,
-they make it plain, that so far as they coöperate to our advantage,
+they make it plain, that so far as they coÃ¶perate to our advantage,
 they do it not of their own abilities; but as they are subservient
 to him that commands them, to whom alone we ought justly to offer
 our honor and thanksgiving.' For which doctrines when the Chaldeans,
@@ -4313,7 +4289,7 @@ the holiness, and the delusions that accompany and surround their
 actions, are entirely superfluous. We have outgrown these fables. And
 truly, these imaginary attributions, these visionary productions,
 have outlived their usefulness. Whether it be Moses, David, Alexander,
-Hannibal, Cæsar, Charlemagne, Cromwell, Frederick the Great, Napoleon,
+Hannibal, CÃ¦sar, Charlemagne, Cromwell, Frederick the Great, Napoleon,
 or Washington, they were men, nothing but men, and their actions,
 as also the great good resulting from their actions, that benefited
 humanity, were natural, not influenced in any way or shape by the
@@ -4833,12 +4809,12 @@ be had. Josephus gives the dates as follows:
 
 
         Saul reigned with Samuel    18 years
-        After the death of Samuel   22  ,,  
-        David lived                 70  ,,  
+        After the death of Samuel   22 Â ,,Â Â 
+        David lived                 70 Â ,,Â Â 
         Reigned in Hebron            7 yrs 6m
-          ,,    ,, Jerusalem        33 years
-        Solomon lived               94  ,,  
-        Having reigned              80  ,,  
+        Â Â ,,Â Â Â  ,, Jerusalem        33 years
+        Solomon lived               94 Â ,,Â Â 
+        Having reigned              80 Â ,,Â Â 
 
 
 There is a discrepancy somewhere. Something is wrong in dates, like
@@ -5236,7 +5212,7 @@ startling phenomenon, the wonder of the age. (You know he asked God
 for wisdom and God gave it to him; why did not God keep him wise?)
 
 In old age he lacked wisdom. He had almost grown into a senseless
-imbecile. He was a squanderer of energy, a roué, a debauchee, a
+imbecile. He was a squanderer of energy, a rouÃ©, a debauchee, a
 frivolous and licentious old man who frittered away his time and his
 brains on his women and their playthings.
 
@@ -6116,7 +6092,7 @@ class previous.
 
 Other nations meantime were progressing in civilization--literature,
 the art of warfare, etc. Greece was gaining laurels. Homer
-appeared. Hesiod wrote about 900 B.C. Tyrtæus's Elegies, Archilochus's
+appeared. Hesiod wrote about 900 B.C. TyrtÃ¦us's Elegies, Archilochus's
 Satires, etc., about 700 B.C. The Persians and Romans were rising and
 making rapid progress and conquest, soon to sweep smaller peoples
 and nations aside. These heathen made conquests, gained victories,
@@ -6378,7 +6354,7 @@ have written the Chronicles 453 B.C. How many more books or parts were
 written and compiled by Ezra and his companions will remain a mystery.
 
 The work of resuscitating the nation--to recover its former importance,
-to reëstablish some of its former glory--was attempted seventy years
+to reÃ«stablish some of its former glory--was attempted seventy years
 later, under Cyrus, who granted the Jews the privilege to return and
 rebuild the Temple.
 
@@ -6428,7 +6404,7 @@ progress in the general civilization of mankind, than the Hebrews. The
 electricity of amber was discovered by Thales, and he also taught
 the spherical form of the earth as the true cause of lunar eclipses,
 640 B.C. Schools of learning flourished in many places. Authors
-appeared whose writings are classic to this day--Sappho, Alcæus, Æsop,
+appeared whose writings are classic to this day--Sappho, AlcÃ¦us, Ã†sop,
 Pittachus. Solon's legislation in Athens superseded the laws of Draco.
 
 It was not the Mosaic God that made these people intelligent, gave
@@ -6657,8 +6633,8 @@ fog that obscured man's intellectual vision:
 
 
                                                                     B.C.
-Aristæus writes a treatise on conic sections,                       380
-Dionysius invents catapultæ,                                        399
+AristÃ¦us writes a treatise on conic sections,                       380
+Dionysius invents catapultÃ¦,                                        399
 Aristotle, the founder of the Peripatetics, logician and
 philosopher,
 Plato, Diogenes, Demosthenes (Philippics), etc.,                    368
@@ -7104,7 +7080,7 @@ living bodies; the solid parts, or tissues, in all assuming the form
 of membranes, arranged so as to surround cavities, or form the walls
 of tubes, in which fluids are contained. Such a structure is called
 organized structure, and the bodies so composed are called organized
-bodies, because such fabrics consist of parts coöperating with one
+bodies, because such fabrics consist of parts coÃ¶perating with one
 another as instruments or organs adapted to certain ends, and through
 which alone the living principle, under whose influence the structure
 itself was built up, is manifested in the operations which the animal
@@ -7170,7 +7146,7 @@ condition of the germ, resulting from heredity, consequently proves
 a generation dependent on other than anterior organisms.
 
 This reasoning, however, demonstrates in an unobjectionable manner that
-the first living beings were formed independent of all preëxisting
+the first living beings were formed independent of all preÃ«xisting
 organization, and that these beings were as little organized as
 possible.
 
@@ -7261,7 +7237,7 @@ they increase in number and perpetuate the species.
 A striking illustration may set both points in a strong light. The
 larva of the flesh-fly possesses such power of assimilation that
 it will increase its own weight two hundred times in twenty-four
-hours, and such consequent power of reproduction that Linnæus did not
+hours, and such consequent power of reproduction that LinnÃ¦us did not
 exaggerate when he affirmed that "Three flesh-flies would devour the
 carcass of a horse as quickly as a lion."
 
@@ -7402,12 +7378,12 @@ the human body, the weight is as follows:
 
 
         The skeleton                            15.9 per cent.
-        The muscles                             41.8    ,,  
-        Thoracic Viscera (lungs, heart, etc.)    1.7    ,,  
-        Abdominal Viscera (liver, etc.)          7.2    ,,  
-        Fat                                     18.2    ,,  
-        Skin                                     6.9    ,,  
-        Brain                                    1.9    ,,  
+        The muscles                             41.8   Â ,,Â Â 
+        Thoracic Viscera (lungs, heart, etc.)    1.7   Â ,,Â Â 
+        Abdominal Viscera (liver, etc.)          7.2   Â ,,Â Â 
+        Fat                                     18.2   Â ,,Â Â 
+        Skin                                     6.9   Â ,,Â Â 
+        Brain                                    1.9   Â ,,Â Â 
 
 
 Let us examine, briefly, each of these.
@@ -7497,7 +7473,7 @@ must perform the work.
 They are called the muscles of Animal life. They are Voluntary;
 they may be set in action at will.
 
-For guidance, control, coördination, sensation, and motion, the
+For guidance, control, coÃ¶rdination, sensation, and motion, the
 muscular tissues are dependent on the nervous tissues.
 
 It is not difficult to understand, I think, as will be explained
@@ -7629,7 +7605,7 @@ as to the organs that are situated below the diaphragm, therein
 lies a deep meaning. These are the primary vegetations, the primary
 generatives. The diaphragm separates the vegetative from the animal
 life, as the throat separates the animal from the rational (Plato in
-his Timæus explains). Out of the primary generatives, out of the world
+his TimÃ¦us explains). Out of the primary generatives, out of the world
 vegetative, there where the root of being exists, the seed comes, and
 there the embryo is fashioned out of four elements. God has selected
 certain parts for his sacrifices--fat, blood, the peritoneum on the
@@ -7681,7 +7657,7 @@ of an inch in length; very clear, and granular and brittle so that
 when they break they often have abruptly rounded or square extremities.
 
 The fibers of involuntary muscles form the proper muscular coats of
-the digestive canal, æsophagus, urinary bladder, trachea, bronchi,
+the digestive canal, Ã¦sophagus, urinary bladder, trachea, bronchi,
 gall-bladder, blood-vessels, lymphatics, etc. To this kind of fiber,
 muscular fiber, the term organic is often applied. The sympathetic or
 ganglionic portion of the nervous system, which consists of a chain
@@ -7790,8 +7766,8 @@ the whole body. Calculated for a man of 150 pounds' weight:
 
 
         The skeleton, bone,                         27 lbs.
-        The muscles,                                63  ,, 
-        The viscera, with skin, fat, blood, etc.,   60  ,, 
+        The muscles,                                63 Â ,,Â 
+        The viscera, with skin, fat, blood, etc.,   60 Â ,,Â 
 
 
 The property of muscular tissue by which its peculiar functions are
@@ -7964,10 +7940,10 @@ as follows:
 (venous blood excites convulsive centers, etc.). 2. The vaso-motor
 center. 3. The cardiac-inhibitory center. 4. The diabetic center,
 or center for producing artificial diabetes. 5. The center for
-deglutition. 6. The center for the movements of the æsophagus, with its
+deglutition. 6. The center for the movements of the Ã¦sophagus, with its
 vomiting center. 7. The center for reflex excitation of the secretion
 of saliva, with which may be associated the center through which the
-væjus (pneumogastric) influences the secretions of pancreatic juice,
+vÃ¦jus (pneumogastric) influences the secretions of pancreatic juice,
 and possibly of the other digestive juices. 8. The center for the
 dilation of the pupil by means of the cervical sympathetic.
 
@@ -7997,7 +7973,7 @@ them). Outside all is the layer of fibers and vessels of the pia
 mater. The external layer consists of a delicate matrix, probably of
 the nature of connective tissue, consisting of cells and fibers, etc.
 
-The cerebellum is probably concerned in the coördination of
+The cerebellum is probably concerned in the coÃ¶rdination of
 movements. Its functions seem especially connected with afferent
 impulses proceeding from the semicircular coats.
 
@@ -8006,7 +7982,7 @@ above with the brain, through the medium of the medulla oblongata,
 terminating below, about the lower border of the first lumbar vertebra,
 in a slender filament of gray or vesicular substance, the filum
 terminale, which lies in the midst of knots of many nerves forming the
-codæ equina. Through the center of the cord, running in a longitudinal
+codÃ¦ equina. Through the center of the cord, running in a longitudinal
 direction, is a minute canal, which is continuous through the whole
 length of the cord, and opens above into the space at the back of the
 medulla oblongata and pons varolii, called the fourth ventricle; the
@@ -8356,10 +8332,10 @@ in the open air is as follows:
 
 
      Meat                     16     ounces or 1    pound avoir.
-     Bread and all other      19       ,,   ,, 1.19  ,,     ,,  
+     Bread and all other      19     Â Â ,,Â Â  ,, 1.19 Â ,,Â Â  Â Â ,,Â Â 
      carbohydrates,
-     Fat, butter,              3 1/2   ,,   ,, 0.22  ,,     ,,  
-     Water                    52       ,,   ,, 3.38  ,,     ,,  
+     Fat, butter,              3 1/2 Â Â ,,Â Â  ,, 0.22 Â ,,Â Â  Â Â ,,Â Â 
+     Water                    52     Â Â ,,Â Â  ,, 3.38 Â ,,Â Â  Â Â ,,Â Â 
 
 
 The quantity and quality of food taken into the system every
@@ -8527,13 +8503,13 @@ chest, and has been variously estimated at from 40 to 200 cubic inches.
         Muscles.                    Muscles.
 
         1.5 inches.         weak            2.0 inches.
-        2.0   ,,          ordinary          2.5   ,,   
-        2.5   ,,           strong           3.5   ,,   
-        3.5   ,,        very strong         4.5   ,,   
-        4.5   ,,         remarkable         5.8   ,,   
-        5.5   ,,      very remarkable       7.0   ,,   
-        6.0   ,,       extraordinary        8.5   ,,   
-        7.0   ,,     very extraordinary    10.0   ,,   
+        2.0 Â Â ,,Â Â Â        ordinary          2.5 Â Â ,,Â Â Â 
+        2.5 Â Â ,,Â Â Â         strong           3.5 Â Â ,,Â Â Â 
+        3.5 Â Â ,,Â Â Â      very strong         4.5 Â Â ,,Â Â Â 
+        4.5 Â Â ,,Â Â Â       remarkable         5.8 Â Â ,,Â Â Â 
+        5.5 Â Â ,,Â Â Â    very remarkable       7.0 Â Â ,,Â Â Â 
+        6.0 Â Â ,,Â Â Â     extraordinary        8.5 Â Â ,,Â Â Â 
+        7.0 Â Â ,,Â Â Â   very extraordinary    10.0 Â Â ,,Â Â Â 
 
 
 The blood as it moves through the respiratory organs is exposed
@@ -8560,7 +8536,7 @@ diminished; 4. Its watery vapor is increased; 5. A minute amount of
 organic matter and of free ammonia is added to it.
 
 1. The expired air is hotter than the inspired air. The temperature
-varies from 97° to 99 1/2°.
+varies from 97Â° to 99 1/2Â°.
 
 2. Carbonic acid in respired air is always increased; but the
 quantity exhaled in a given time is subject to change from various
@@ -8593,27 +8569,27 @@ and moderating the action upon the system.
 The most obvious change which the blood undergoes in its passage
 through the lungs is that of color, the dark venous blood being
 exchanged for the bright scarlet arterial blood. It gains oxygen,
-loses carbonic acid, becomes 1° to 2° F. warmer; it coagulates sooner
+loses carbonic acid, becomes 1Â° to 2Â° F. warmer; it coagulates sooner
 and more firmly, and contains more fibrine.
 
 The venous blood as it issues from the right ventricle is loaded with
 carbonic acid. The oxygen present is insufficient to the whole of the
-hæmoglobin of the red corpuscles; much reduced hæmoglobin is present,
+hÃ¦moglobin of the red corpuscles; much reduced hÃ¦moglobin is present,
 hence the purple color of venous blood. As the blood-vessels pass
-through the capillaries of the lungs, this reduced hæmoglobin takes
+through the capillaries of the lungs, this reduced hÃ¦moglobin takes
 from the pulmonary air its complement of oxygen, all or nearly all
-the hæmoglobin of the red corpuscles becomes oxy-hæmoglobin, and the
-purple color forthwith shifts into scarlet. The hæmoglobin of arterial
+the hÃ¦moglobin of the red corpuscles becomes oxy-hÃ¦moglobin, and the
+purple color forthwith shifts into scarlet. The hÃ¦moglobin of arterial
 blood is saturated or nearly saturated with oxygen. Passing from
-the left ventricle to the capillaries, some of the oxy-hæmoglobin
-gives up its oxygen to the tissues, becomes reduced hæmoglobin,
+the left ventricle to the capillaries, some of the oxy-hÃ¦moglobin
+gives up its oxygen to the tissues, becomes reduced hÃ¦moglobin,
 and the blood in consequence becomes once more venous, with a
-purple hue. Thus the red corpuscles by virtue of their hæmoglobin
+purple hue. Thus the red corpuscles by virtue of their hÃ¦moglobin
 are emphatically oxygen-carriers. Undergoing no intrinsic change in
-itself, the hæmoglobin combines in the lungs with oxygen, which it
+itself, the hÃ¦moglobin combines in the lungs with oxygen, which it
 carries to the tissues; these, more greedy of the oxygen than itself,
-rob it of its charge, and the reduced hæmoglobin hurries back to the
-lung in venous blood for another portion. Hæmoglobin combines loosely
+rob it of its charge, and the reduced hÃ¦moglobin hurries back to the
+lung in venous blood for another portion. HÃ¦moglobin combines loosely
 with carbonic oxide just as it does with oxygen, but the affinity
 with the former is greater than with the latter. While carbonic oxide
 readily turns out oxygen, oxygen cannot so readily turn out carbonic
@@ -8621,7 +8597,7 @@ acid. This property of carbonic oxide explains its poisonous nature.
 
 Respiratory changes in the tissues. Arterial blood passing through the
 several tissues, becomes once more venous. A considerable quantity
-of the oxy-hæmoglobin becomes reduced, and a quantity of carbonic
+of the oxy-hÃ¦moglobin becomes reduced, and a quantity of carbonic
 acid passes from the tissue into the blood. The blood which comes
 from a contracting muscle, is not only richer in carbonic acid,
 but also, though not to a corresponding amount, poorer in oxygen,
@@ -8657,24 +8633,24 @@ an atmosphere of hydrogen. What is true of muscle is true also of
 other tissues and of the body at large.
 
 Oxygen helps to wind up the vital clock; but once wound up, the clock
-will go on for a period without further winding (Pflüger).
+will go on for a period without further winding (PflÃ¼ger).
 
 To sum up, then, the result of respiration in its chemical aspect. As
 the blood passes through the lungs, the low oxygen tension of the
 venous blood permits the entrance of oxygen from the air of the
 pulmonary alveolus, through the thin alveolar wall, through the thin
 capillary sheath, through the thin layer of blood plasma, to the red
-corpuscles, and the reduced hæmoglobin of the venous blood becomes
-wholly, or all but wholly, oxy-hæmoglobin. Hurried to the tissues,
+corpuscles, and the reduced hÃ¦moglobin of the venous blood becomes
+wholly, or all but wholly, oxy-hÃ¦moglobin. Hurried to the tissues,
 the oxygen, at a comparatively high tension in the arterial blood,
 passes largely into the tissues, in which the oxygen tension is always
 kept at an exceedingly low pitch, by the fact that the tissues, in
 some way at present unknown to us, pack away, at every moment, into
 some stable combination each molecule of oxygen which they receive
-from the blood. With much, but not all, of its oxy-hæmoglobin reduced,
-the blood passes on as venous blood. How much hæmoglobin is reduced
+from the blood. With much, but not all, of its oxy-hÃ¦moglobin reduced,
+the blood passes on as venous blood. How much hÃ¦moglobin is reduced
 will depend on the activity of the tissue itself. The quantity of
-hæmoglobin in the blood is the measure of limit of the oxidizing power
+hÃ¦moglobin in the blood is the measure of limit of the oxidizing power
 of the body at large; but within that limit the amount of oxidation
 is determined by the tissue, and by the tissue alone.
 
@@ -8687,12 +8663,12 @@ excretory organ, (4) as an absorbing organ, (5) for regulating the
 temperature of the body. Within and beneath the corium are imbedded
 several organs with special functions, namely, sudoriferous or sweat
 glands, sebaceous or fat glands, and hair follicles; and on its
-surface are sensitive papillæ. The so-called appendages of the skin,
+surface are sensitive papillÃ¦. The so-called appendages of the skin,
 the hair and nails, are modifications of the epidermis.
 
 Sudoriferous glands: In the middle of each of the transverse furrows
-between the papillæ, and irregularly scattered between the bases
-of the papillæ in those parts of the surface of the body in which
+between the papillÃ¦, and irregularly scattered between the bases
+of the papillÃ¦ in those parts of the surface of the body in which
 there are no furrows between them, are the orifices or ducts of the
 sudoriferous, or sweat glands, by which it is probable that a large
 portion of the aqueous and gaseous materials excreted by the skin are
@@ -8874,10 +8850,10 @@ The salts excreted by the kidneys in 24 hours are:
 
 
             Urea (C N2 H4 O),               512    grains.
-            Chloride of sodium (Na Cl),     177      ,,   
-            Phosphoric acid (H3 P O4),       48      ,,   
-            Sulphuric acid (H2 S O4),        31.11   ,,   
-            Uric acid (C5 N4 H4 O3),          8.53   ,,   
+            Chloride of sodium (Na Cl),     177    Â Â ,,Â Â Â 
+            Phosphoric acid (H3 P O4),       48    Â Â ,,Â Â Â 
+            Sulphuric acid (H2 S O4),        31.11 Â Â ,,Â Â Â 
+            Uric acid (C5 N4 H4 O3),          8.53 Â Â ,,Â Â Â 
 
 
 The substances excreted consist mainly of carbonic acid gas (C O2),
@@ -8929,12 +8905,12 @@ matter and water.
 HEAT AND TEMPERATURE.
 
 The average temperature of the human body in those internal parts which
-are more accessible, as the mouth and rectum, is from 98.5° to 99.5° F.
+are more accessible, as the mouth and rectum, is from 98.5Â° to 99.5Â° F.
 
 The chief circumstances by which the temperature of the healthy body
 is influenced are the following:
 
-Age. The average temperature of the new-born babe is only about 1°
+Age. The average temperature of the new-born babe is only about 1Â°
 F. above that proper to the adult. In old age the temperature rises
 again, and approaches that of infancy.
 
@@ -8944,24 +8920,24 @@ Exercise. Active exercise raises the temperature of the body, through
 muscular contraction, etc.
 
 Climate and season. In passing from a temperate to a hot climate,
-the temperature of the human body rises slightly, rarely more than 2°
-to 3° F. In summer the temperature of the body is a little higher
-than in winter, 1/5° to 1/3° F.
+the temperature of the human body rises slightly, rarely more than 2Â°
+to 3Â° F. In summer the temperature of the body is a little higher
+than in winter, 1/5Â° to 1/3Â° F.
 
-Cold alcoholic drinks depress the temperature 1/2° to 1°F.
+Cold alcoholic drinks depress the temperature 1/2Â° to 1Â°F.
 
 Warm alcoholic drinks, as well as warm tea and coffee, raise the
-temperature about 1/2° F.
+temperature about 1/2Â° F.
 
 In disease, as in pneumonia and typhus, it occasionally rises as high
-as 106° or 107° F.
+as 106Â° or 107Â° F.
 
 In Asiatic cholera a thermometer placed in the mouth sometimes rises
-only to 77° or 79° F.
+only to 77Â° or 79Â° F.
 
 The temperature maintained by mammalia of an active state of life
-averages 101° F. In birds, the average is as high as 107° F., the
-highest temperature, 111.25°, being in the species of the linnets, etc.
+averages 101Â° F. In birds, the average is as high as 107Â° F., the
+highest temperature, 111.25Â°, being in the species of the linnets, etc.
 
 The sources and distribution of heat. Wherever metabolism of protoplasm
 is going on, heat is being generated. All over the body heat is being
@@ -9002,9 +8978,9 @@ heat may be tabulated thus:
 
     By the skin, in conducting, radiating, and
     evaporating,                                 77.5 per cent.
-    Warming expired air,                          5.2    ,,  
-    Evaporating the water of respiration,        14.5    ,,  
-    In warming urine, etc.,                       2.6    ,,  
+    Warming expired air,                          5.2   Â ,,Â Â 
+    Evaporating the water of respiration,        14.5   Â ,,Â Â 
+    In warming urine, etc.,                       2.6 Â   ,,Â Â 
 
 
 
@@ -9201,8 +9177,8 @@ Composition of serum: In 100 parts there are in round numbers:
 
 
           Water,                                   90 parts.
-          Proteid substance,                   8 to 9   ,,  
-          Fat extractives and saline matter,   2 to 1   ,,  
+          Proteid substance,                   8 to 9 Â Â ,,Â Â 
+          Fat extractives and saline matter,   2 to 1 Â Â ,,Â Â 
 
 
 Of the proteid substances the great mass consists of the so-called
@@ -9221,7 +9197,7 @@ in the corpuscles amounting to less than 4 per cent. In 100 parts of
 dried organic matter of the corpuscles of human blood there are:
 
 
-                       Hæmoglobin,          90.54
+                       HÃ¦moglobin,          90.54
                        Proteid substance,    8.67
                        Lecithin,              .54
                        Cholestrin,            .25
@@ -9231,9 +9207,9 @@ The blood is distributed as follows in round numbers:
 
 
    In the heart, lungs, large arteries and veins,   About one-fourth.
-   In the liver,                                      ,,      ,,     
-   In the skeletal muscles,                           ,,      ,,     
-   In the other organs,                               ,,      ,,     
+   In the liver,                                     Â ,,Â Â  Â Â Â ,,Â Â Â Â Â 
+   In the skeletal muscles,                          Â ,,Â Â  Â Â Â ,,Â Â Â Â Â 
+   In the other organs,                              Â ,,Â Â  Â Â Â ,,Â Â Â Â Â 
 
 
 The average proportion of the principal constituents of the blood in
@@ -9248,7 +9224,7 @@ The average proportion of the principal constituents of the blood in
                  Fibrine,                             2.20
 
 
-The chemical composition of hæmoglobin is:
+The chemical composition of hÃ¦moglobin is:
 
 
                 Carb.     Hyd.   Iron.    Nit.      Oxy.     Sulph.
@@ -9292,7 +9268,7 @@ small part of its flattened inner or median surface by a part named
 the root and by a thin membranous fold, which is continued downwards
 from it.
 
-The pleuræ are serous membranes forming two shut sacs, quite distinct
+The pleurÃ¦ are serous membranes forming two shut sacs, quite distinct
 from each other, which line the right and left side of the thorax,
 forming by their approximation in the middle line the mediastinal
 partition, and are reflected each upon the root and over the entire
@@ -9323,7 +9299,7 @@ The average weight in twenty-nine cases, male and female:
 
                           Male.        Female.
             Right lung,   24 ounces.   17 ounces.
-            Left lung,    21   ,,      15   ,,   
+            Left lung,    21 Â Â ,,Â Â Â    15 Â Â ,,Â Â Â 
                           ---------    ---------
                           45 ounces.   32 ounces.
 
@@ -9410,7 +9386,7 @@ nitrogen suffering but little change. Thus:
                                Oxygen.    Nitrogen.   Carbon.
 
     Inspired air contains       20.81      79.15        .04
-    Expired  ,,     ,,          16.033     79.557      4.380
+    Expired  ,,Â  Â Â Â ,,Â Â Â        16.033     79.557      4.380
 
 
 While the air in passing in and out of the lungs is thus robbed of a
@@ -9540,7 +9516,7 @@ times the length of the body.
 
 The part situated in the head and thorax consists of the organs of
 mastication, insalivation, and deglutition, and comprises the mouth
-with the teeth, the salivary glands, and the æsophagus or gullet. The
+with the teeth, the salivary glands, and the Ã¦sophagus or gullet. The
 parts contained in the abdomen and pelvis consist of the stomach and
 the small and large intestines.
 
@@ -9551,7 +9527,7 @@ pancreas, and liver, whose ducts open on its inner surface.
 
 The mouth is included between the lips and the throat, bounded by the
 lips, cheeks, tongue, and hard and soft palate. It communicates behind
-with the pharynx, and through the pharynx with the æsophagus. It is
+with the pharynx, and through the pharynx with the Ã¦sophagus. It is
 lined throughout with mucous membrane.
 
 The mouth contains 32 teeth, 16 in the upper jaw and 16 in the lower
@@ -9613,10 +9589,10 @@ The solids are:
         Epithelium and Mucus,                    2.13
                { Sulphocyanide of Potassium, }
                { Phosphate of Soda,          }
-        Salts, {    ,,     ,, Lime,          }   2.29
-               {    ,,     ,, Magnesia,      }
+        Salts, { Â Â Â ,,Â Â Â Â  ,, Lime,          }   2.29
+               { Â Â Â ,,Â Â Â Â  ,, Magnesia,      }
                { Chloride of Sodium,         }
-               {    ,,    ,, Potassium,      }
+               { Â Â Â ,,Â Â Â  ,, Potassium,      }
                                                  ----
                                                  5.90
 
@@ -9658,18 +9634,18 @@ grape sugar.
 The action of saliva varies in intensity in different animals.
 
 The food after having been acted upon and prepared is propelled,
-by the act of deglutition, through the æsophagus into the stomach,
+by the act of deglutition, through the Ã¦sophagus into the stomach,
 by way of the pharynx.
 
 The pharynx is that part of the alimentary canal which unites the
-cavities of the mouth and nose to the æsophagus. It extends from
+cavities of the mouth and nose to the Ã¦sophagus. It extends from
 the base of the skull to the lower border of the cricoid cartilage,
 and forms a sac open at the lower end, and imperfect in front, where
 it presents apertures leading into the nose, mouth, and larynx. The
 pharynx is about four and a half inches in length, and is considerably
 wider across than it is deep from before backwards.
 
-The æsophagus or gullet, the passage leading from the pharynx into
+The Ã¦sophagus or gullet, the passage leading from the pharynx into
 the stomach, commences at the cricoid cartilage opposite the lower
 border of the fifth cervical vertebra, descends in front of the spine,
 passes through the diaphragm opposite the ninth dorsal vertebra,
@@ -9695,7 +9671,7 @@ muscular, an areolar, and a mucous coat. The external or serous coat
 is derived from the peritoneum. There are three kinds of muscular
 fibers--longitudinal, circular, and oblique, and the internal mucous
 lining is a rather thicker, soft, smooth, pulpy membrane, lying in
-ridges or rugæ, and containing a large number of glands--tubular
+ridges or rugÃ¦, and containing a large number of glands--tubular
 or gastric glands, and another variety of gland called peptic,
 besides others.
 
@@ -9723,8 +9699,8 @@ The chemical composition of gastric juice is:
             { Ferment, pepsin, and a trace of ammonia,  3.19
             { Hydrochloric acid,                        0.20
     Solids, { Chloride of calcium,                      0.06
-            {    ,,    ,, sodium                        1.46
-            {    ,,    ,, potassium,                    0.55
+            { Â Â Â ,,Â Â Â  ,, sodium                        1.46
+            { Â Â Â ,,Â Â Â  ,, potassium,                    0.55
             { Phosphate of lime, magnesia, and iron,    0.12
 
 
@@ -9740,7 +9716,7 @@ or soluble only with difficulty in very strong acids.
 
 Certain conditions are required for the perfection of the process,
 which are all found in the stomach. The first is a temperature
-of 100° F. Second, minute division and constant movement favor
+of 100Â° F. Second, minute division and constant movement favor
 digestion. Third, the greater the surface presented to the action of
 the juice, the more rapid the solution.
 
@@ -9767,17 +9743,17 @@ of the canal.
 The mucous membrane, the interior coat, is the most important to
 the function of digestion. There are permanent folds, shelf-like
 processes, of the mucous membrane, called valvular conniventes. There
-are also villi and glands, as the glands of Lieberkühn, of Peyer,
-and of Bruner. The glands of Lieberkühn are thickly distributed over
+are also villi and glands, as the glands of LieberkÃ¼hn, of Peyer,
+and of Bruner. The glands of LieberkÃ¼hn are thickly distributed over
 the whole surface of the large and small intestines. The glands
 of Peyer are exclusively in the small intestine. They are found
 in greatest abundance in the lower part of the ileum near to the
-ileo-cæcal valve. They are met with in two conditions, viz., either
-scattered singly, in which case they are termed glandulæ solitairæ,
+ileo-cÃ¦cal valve. They are met with in two conditions, viz., either
+scattered singly, in which case they are termed glandulÃ¦ solitairÃ¦,
 or aggregated in groups varying from one to three inches in length
 and about half an inch in width, chiefly of an oval form, their long
 axes parallel with that of the intestines. In this state they are
-named glandulæ agminatæ. The latter are almost always placed opposite
+named glandulÃ¦ agminatÃ¦. The latter are almost always placed opposite
 the attachment of the mesentery. In structure they are analogous
 to lymphatics or absorbent glands, and their office is to take up
 certain materials from the chyle, elaborate them, and subsequently
@@ -9810,9 +9786,9 @@ small intestines, namely, the serous, the muscular, the areolar or
 submucous, and the mucous. It is divided into the ascending colon,
 transverse and descending colon, and rectum and anus.
 
-The cæcum is a short wide pouch, communicating with the lower end of
-the small intestines through an opening guarded by the ileo-cæcal
-valve. The appendix vermiformis is attached to the cæcum. The
+The cÃ¦cum is a short wide pouch, communicating with the lower end of
+the small intestines through an opening guarded by the ileo-cÃ¦cal
+valve. The appendix vermiformis is attached to the cÃ¦cum. The
 colon commences at the right groin, ascends to the liver, forms the
 hepatic flexure, then crosses transversely from right to left to
 the spleen, forms the splenic flexure, descends to the left groin,
@@ -9849,7 +9825,7 @@ surface smooth and convex, and an under surface which is uneven and
 concave. The liver is divided into two unequal lobes, a right and a
 left, and on the under surface of the right lobe are three secondary
 lobes or lobules, named the lobe of Spigolius, the caudate or tailed
-lobe, and the square lobe. It has five fissures or fossæ, described
+lobe, and the square lobe. It has five fissures or fossÃ¦, described
 as the transverse or portal; the umbilical fissure and the fissure
 of the ductus venosus, together forming the longitudinal fissure;
 the fossa of the vena cava, and the fossa of the gall bladder. It is
@@ -10069,7 +10045,7 @@ and carried by them into the vena cava inferior.
 Digestion begins at the mouth. Food is masticated by the movement of
 the lower jaw, broken into small pieces, moistened by the saliva,
 and starchy substances are converted into sugar. No change takes
-place during the rapid transit through the æsophagus.
+place during the rapid transit through the Ã¦sophagus.
 
 In the stomach the proteids are acted upon by the gastric juice and
 converted into peptones. Fats remain unchanged, and sugars are not
@@ -10371,11 +10347,11 @@ form a substance, a molecule.
 
 O combines with all the elements known.
 
-H    ,,     ,,  many.
+H Â Â Â ,,Â Â Â  Â ,,Â  many.
 
-N    ,,     ,,  some.
+N Â Â Â ,,Â Â Â  Â ,,Â  some.
 
-C    ,,     ,,  many.
+C Â Â Â ,,Â Â Â  Â ,,Â  many.
 
 Two elements form a substance.
 
@@ -10449,10 +10425,10 @@ enter any composition.
 
     Starch food substances,                     18   13   15
     Sugar, grape,                                6   12    6
-      ,,   cane,                          H2O + 12   22   11
+    Â Â ,,Â Â  cane,                          H2O + 12   22   11
     Oils, aniseed, etc.,                        10   12    1
     Acids, tartaric,                             4    6    6
-     ,,  , citric, etc.,                         6    8    7
+    Â ,,Â Â , citric, etc.,                         6    8    7
     Hydrocyanic, or prussic, acid, one of the
     strongest poisons,                           1    1         1
     Tannin or tannic acid,                      27   22   17
@@ -10461,7 +10437,7 @@ enter any composition.
 
 
 We have other vegetable products called alkaloids, that are principally
-found in the bark and the leaves. A few examples will suffice:
+found in the bark andÂ the leaves. A few examples will suffice:
 
 
                                                        C    H    N   O
@@ -10545,7 +10521,7 @@ that bears directly upon their mutual activity again depends, when
 in a state of nature, upon the presence of heat. When a seed, as
 of wheat or of any starchy vegetable, is thrown into the ground,
 it will not germinate except in the presence of a certain amount
-of moisture, and heat, the heat varying from 50° to 80° Fahrenheit,
+of moisture, and heat, the heat varying from 50Â° to 80Â° Fahrenheit,
 in addition to free communication with the air.
 
 Temperature, moisture, air, electricity, kind and quantity of the
@@ -10579,9 +10555,9 @@ foliage of the locust, and of most leguminous plants, and that of
 oxalis and wood-sorrel, seem to have their sleep, as seen by the
 position of their leaves and blossoms. Irritate the mimosa plant,
 as by roughly touching it, and the leaflets will suddenly change
-position. In the Dionæa muscipula, or Venus's flytrap, the touch
+position. In the DionÃ¦a muscipula, or Venus's flytrap, the touch
 of an insect, alighting upon the upper surface of the outspread
-laminæ, causes its sides to close suddenly, the strong bristles of
+laminÃ¦, causes its sides to close suddenly, the strong bristles of
 the marginal fringe crossing each other like the teeth of a steel
 trap, and the two surfaces pressing together with considerable force,
 so as to retain, if not destroy, the intruder, whose struggles only
@@ -10691,9 +10667,9 @@ The carbohydrates taken into the system:
                                          Oz.
 
                 Starch and sugars, about 20
-                Meats, proteids,    ,,   15
-                Fats,               ,,    3 1/2
-                Water,              ,,   52
+                Meats, proteids,   Â ,,Â Â  15
+                Fats,              Â ,,Â Â   3 1/2
+                Water,             Â ,,Â Â  52
 
 
 About 32 ounces of saliva converts the starch into sugar. That is,
@@ -10776,7 +10752,7 @@ oblongata, with all the other subordinate nervous centers, being
 impaired by the poison and the absence of Oxygen, the nerves of
 volition lose control, the cerebrum has its will power impaired or
 entirely subdued, and the cerebellum loses the power of muscular
-coördination.
+coÃ¶rdination.
 
 Thus, then, the master tissues become crippled. At first alcohol
 may have a stimulating effect on the nervous system; next, if the
@@ -10784,7 +10760,7 @@ indulgence be continued, the nervous forces become exalted; finally,
 however, depression sets in, and proves at last a complete extinguisher
 of the intellectual faculties.
 
-The muscles first lose the power of coördination, the irritability
+The muscles first lose the power of coÃ¶rdination, the irritability
 and tension gradually cease, at length they refuse to act.
 
 The brain and muscles being helpless, the body lies in a state of
@@ -10894,7 +10870,7 @@ at least, needs no argument, because all will power is arrested,
 the nerves of special sense cease to act, all nerve-centers suspend
 operation, and the nerve-fibers no longer act as conductors of either
 motion or sensation. And the muscular tissues are no longer capable
-of irritation, stimulation, or coördination; contraction, flexion,
+of irritation, stimulation, or coÃ¶rdination; contraction, flexion,
 and extension have been temporarily annihilated; the force, the power,
 and the action have succumbed to the harmful influence of alcohol. And
 the cause of it all is--too much carburetted Hydrogen and the absence
@@ -10993,7 +10969,7 @@ are more or less suspended, its controlling or governing action is
 lost over the muscular tissue, in addition to the muscles themselves
 being disabled. Both tissues, having been robbed of their elementary
 equilibrium, consequently cease working. The moment the equilibrium
-is reëstablished, the tissues assume their functions the same as
+is reÃ«stablished, the tissues assume their functions the same as
 before. If a given number of specific parts enter into the construction
 of any mechanism in order to produce a certain amount of force and
 effect, the number of specific parts must always be present if the same
@@ -11420,7 +11396,7 @@ are performed while the organism is otherwise entirely helpless.
 
     The nervous system is not developed. The special senses are not
     responsive--neither sight, hearing, taste, nor smell.
-    There are no voluntary muscular movements, no coördinations
+    There are no voluntary muscular movements, no coÃ¶rdinations
     of muscles.
     Nervous and muscular tissues undeveloped.
     Special senses undeveloped, no recognition.
@@ -11450,7 +11426,7 @@ are performed while the organism is otherwise entirely helpless.
     The eye steadier. The child begins to recognize its mother, etc.
     Utters sounds of satisfaction.
     Perceives sounds indistinctly.
-    No coördinate movement.
+    No coÃ¶rdinate movement.
     Upper extremities more active.
     Expression of face improved--smiles.
 
@@ -11458,7 +11434,7 @@ are performed while the organism is otherwise entirely helpless.
 4. Six months.--
 
     Muscular tissues more developed--crawls.
-    No coördination of muscular action.
+    No coÃ¶rdination of muscular action.
     Sight improved--recognizes mother, father, etc.
     Excretions involuntary.
     Expressions of pain and satisfaction more palpable.
@@ -11471,7 +11447,7 @@ are performed while the organism is otherwise entirely helpless.
 5. One year.--
 
     Special senses more developed.
-    Coördination still imperfect.
+    CoÃ¶rdination still imperfect.
     Excretion involuntary.
     Upper extremities more active.
     Fear manifested.
@@ -11487,8 +11463,8 @@ are performed while the organism is otherwise entirely helpless.
 
 
 A child one year old--(a) Recognizes its parents imperfectly. Has
-slight coördinate movement of the upper extremities, and beginning of
-coördination of the lower extremities. Manifests its wants by making
+slight coÃ¶rdinate movement of the upper extremities, and beginning of
+coÃ¶rdination of the lower extremities. Manifests its wants by making
 noises, but has no articulation. Sensations of pleasure, pain, and
 anger are more plainly expressed. Playfulness is greater. Fear is
 exhibited. (b) It has no mind, no intellect, no will power. No God,
@@ -11506,7 +11482,7 @@ joy, sorrow, despair, envy, ambition, pride, etc., etc.
     of teeth.
     All the special senses more susceptible.
     Voluntary muscles begin to act, though imperfectly.
-    Coördination still uncertain.
+    CoÃ¶rdination still uncertain.
     Muscles of articulation attempt to produce articulate
     sound--beginning to imitate.
     Recognizes some objects; cannot discriminate.
@@ -11529,7 +11505,7 @@ joy, sorrow, despair, envy, ambition, pride, etc., etc.
 
 
 At the end of the second year the child (a) recognizes its parents
-and others about it. Has coördinate movements comparatively correct
+and others about it. Has coÃ¶rdinate movements comparatively correct
 of both lower and upper extremities. May manifest its wants by
 imperfect articulation. The sensations of pleasure, pain, and anger
 are more emphatic. (b) The will power is slight. The memory is very
@@ -11539,7 +11515,7 @@ feeble. Discrimination begins in simple matters.
 7. Third year.--
 
     Training progresses.
-    Coördination complete.
+    CoÃ¶rdination complete.
     Nerve centers formed.
     Will power attempted.
     It depends at this age upon the surroundings--the guidance,
@@ -11792,7 +11768,7 @@ general recognized rule to guide them. Female chastity is secure
 among all nations, high and low, civilized and uncivilized, whether
 they are decorated in a complete suit of nudity, a gauze covering,
 or a ball-room dress. There is no necessity of going back four or
-five thousand years. Cæsar relates (Lib. vi, 21) that the Germans were
+five thousand years. CÃ¦sar relates (Lib. vi, 21) that the Germans were
 in complete undress costume when bathing promiscuously; yet they had
 their customs of marriage and marriage ceremonies. In this country we
 have had the same customs and may have again. When Columbus arrived
@@ -12429,7 +12405,7 @@ or not. For many generations, and for centuries, the various church
 organizations have been teaching the old, antiquated idea that the
 Bible was a supernatural production, that either God had written it
 or had inspired man to do the work. What does it signify who wrote
-Æsop's fables, Homer's Iliad, the five books of Moses, Isaiah,
+Ã†sop's fables, Homer's Iliad, the five books of Moses, Isaiah,
 or the New Testament, or even Shakespeare? They are written. The
 question really is, whether the contents are true, are fabulous or
 historically correct. For many years it has been a recognized fact that
@@ -12603,7 +12579,7 @@ signs of the cross, magic, miracles, sacrament, worship of relics,
 worship of images, resurrection, heaven, hell, perdition, purgatory,
 etc., etc.
 
-Satolli and his confréres would rather have parish schools, to educate
+Satolli and his confrÃ©res would rather have parish schools, to educate
 the young in their ecclesiastical stupidities, and draw the funds from
 the state treasury in order to sustain them. The Roman Catholic church,
 in its career as an educational medium, has not contributed one iota
@@ -13200,7 +13176,7 @@ The second and third chapters are advisory to the seven churches.
 
 In the fourth his imagination takes a great flight.
 
-A more romantic spot to have visions could not be found--about 38°
+A more romantic spot to have visions could not be found--about 38Â°
 north of the equator, a beautiful sky, mild climate, calm waters,
 and a solemnity of surroundings that would impress a less imaginative
 mind. It would have a marvelous effect on an excitable fanatic zealot,
@@ -13586,7 +13562,7 @@ terrestrial God has?
 The right to this power, to this prerogative, is as much vested in
 the god of Neptune or Saturn, as in this earthly God. Imagine the
 god of Saturn complacently smiling at the arrogance of this pigmy of
-a terrestrial god. May not the god of Venus have a preëmptory claim
+a terrestrial god. May not the god of Venus have a preÃ«mptory claim
 to the godship of this planetary system? Or the god of Uranus, or of
 any other of the planets? Or possibly every planet has its god that
 acts as superintendent over his own territory, the laws of gravitation
@@ -14262,7 +14238,7 @@ God never made man, but every man makes his god.
                  ideas--Complex ideas--Mixed ideas and
               complicated ideas--Conducting, transferring,
                            and reflexation--
-                             Coördination.
+                             CoÃ¶rdination.
 
 Sight.               Hearing.     Touch-feeling.  Smell.  Taste.
 
@@ -14839,367 +14815,4 @@ Peripatetics.
 
 End of the Project Gutenberg EBook of The Creation of God, by Jacob Hartmann
 
-*** END OF THIS PROJECT GUTENBERG EBOOK THE CREATION OF GOD ***
-
-***** This file should be named 59651-8.txt or 59651-8.zip *****
-This and all associated files of various formats will be found in:
-        http://www.gutenberg.org/5/9/6/5/59651/
-
-Produced by Jeroen Hellingman and the Online Distributed
-Proofreading Team at http://www.pgdp.net/ for Project
-Gutenberg (This file was produced from images generously
-made available by The Internet Archive/American Libraries.)
-
-Updated editions will replace the previous one--the old editions will
-be renamed.
-
-Creating the works from print editions not protected by U.S. copyright
-law means that no one owns a United States copyright in these works,
-so the Foundation (and you!) can copy and distribute it in the United
-States without permission and without paying copyright
-royalties. Special rules, set forth in the General Terms of Use part
-of this license, apply to copying and distributing Project
-Gutenberg-tm electronic works to protect the PROJECT GUTENBERG-tm
-concept and trademark. Project Gutenberg is a registered trademark,
-and may not be used if you charge for the eBooks, unless you receive
-specific permission. If you do not charge anything for copies of this
-eBook, complying with the rules is very easy. You may use this eBook
-for nearly any purpose such as creation of derivative works, reports,
-performances and research. They may be modified and printed and given
-away--you may do practically ANYTHING in the United States with eBooks
-not protected by U.S. copyright law. Redistribution is subject to the
-trademark license, especially commercial redistribution.
-
-START: FULL LICENSE
-
-THE FULL PROJECT GUTENBERG LICENSE
-PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
-
-To protect the Project Gutenberg-tm mission of promoting the free
-distribution of electronic works, by using or distributing this work
-(or any other work associated in any way with the phrase "Project
-Gutenberg"), you agree to comply with all the terms of the Full
-Project Gutenberg-tm License available with this file or online at
-www.gutenberg.org/license.
-
-Section 1. General Terms of Use and Redistributing Project
-Gutenberg-tm electronic works
-
-1.A. By reading or using any part of this Project Gutenberg-tm
-electronic work, you indicate that you have read, understand, agree to
-and accept all the terms of this license and intellectual property
-(trademark/copyright) agreement. If you do not agree to abide by all
-the terms of this agreement, you must cease using and return or
-destroy all copies of Project Gutenberg-tm electronic works in your
-possession. If you paid a fee for obtaining a copy of or access to a
-Project Gutenberg-tm electronic work and you do not agree to be bound
-by the terms of this agreement, you may obtain a refund from the
-person or entity to whom you paid the fee as set forth in paragraph
-1.E.8.
-
-1.B. "Project Gutenberg" is a registered trademark. It may only be
-used on or associated in any way with an electronic work by people who
-agree to be bound by the terms of this agreement. There are a few
-things that you can do with most Project Gutenberg-tm electronic works
-even without complying with the full terms of this agreement. See
-paragraph 1.C below. There are a lot of things you can do with Project
-Gutenberg-tm electronic works if you follow the terms of this
-agreement and help preserve free future access to Project Gutenberg-tm
-electronic works. See paragraph 1.E below.
-
-1.C. The Project Gutenberg Literary Archive Foundation ("the
-Foundation" or PGLAF), owns a compilation copyright in the collection
-of Project Gutenberg-tm electronic works. Nearly all the individual
-works in the collection are in the public domain in the United
-States. If an individual work is unprotected by copyright law in the
-United States and you are located in the United States, we do not
-claim a right to prevent you from copying, distributing, performing,
-displaying or creating derivative works based on the work as long as
-all references to Project Gutenberg are removed. Of course, we hope
-that you will support the Project Gutenberg-tm mission of promoting
-free access to electronic works by freely sharing Project Gutenberg-tm
-works in compliance with the terms of this agreement for keeping the
-Project Gutenberg-tm name associated with the work. You can easily
-comply with the terms of this agreement by keeping this work in the
-same format with its attached full Project Gutenberg-tm License when
-you share it without charge with others.
-
-1.D. The copyright laws of the place where you are located also govern
-what you can do with this work. Copyright laws in most countries are
-in a constant state of change. If you are outside the United States,
-check the laws of your country in addition to the terms of this
-agreement before downloading, copying, displaying, performing,
-distributing or creating derivative works based on this work or any
-other Project Gutenberg-tm work. The Foundation makes no
-representations concerning the copyright status of any work in any
-country outside the United States.
-
-1.E. Unless you have removed all references to Project Gutenberg:
-
-1.E.1. The following sentence, with active links to, or other
-immediate access to, the full Project Gutenberg-tm License must appear
-prominently whenever any copy of a Project Gutenberg-tm work (any work
-on which the phrase "Project Gutenberg" appears, or with which the
-phrase "Project Gutenberg" is associated) is accessed, displayed,
-performed, viewed, copied or distributed:
-
-  This eBook is for the use of anyone anywhere in the United States and
-  most other parts of the world at no cost and with almost no
-  restrictions whatsoever. You may copy it, give it away or re-use it
-  under the terms of the Project Gutenberg License included with this
-  eBook or online at www.gutenberg.org. If you are not located in the
-  United States, you'll have to check the laws of the country where you
-  are located before using this ebook.
-
-1.E.2. If an individual Project Gutenberg-tm electronic work is
-derived from texts not protected by U.S. copyright law (does not
-contain a notice indicating that it is posted with permission of the
-copyright holder), the work can be copied and distributed to anyone in
-the United States without paying any fees or charges. If you are
-redistributing or providing access to a work with the phrase "Project
-Gutenberg" associated with or appearing on the work, you must comply
-either with the requirements of paragraphs 1.E.1 through 1.E.7 or
-obtain permission for the use of the work and the Project Gutenberg-tm
-trademark as set forth in paragraphs 1.E.8 or 1.E.9.
-
-1.E.3. If an individual Project Gutenberg-tm electronic work is posted
-with the permission of the copyright holder, your use and distribution
-must comply with both paragraphs 1.E.1 through 1.E.7 and any
-additional terms imposed by the copyright holder. Additional terms
-will be linked to the Project Gutenberg-tm License for all works
-posted with the permission of the copyright holder found at the
-beginning of this work.
-
-1.E.4. Do not unlink or detach or remove the full Project Gutenberg-tm
-License terms from this work, or any files containing a part of this
-work or any other work associated with Project Gutenberg-tm.
-
-1.E.5. Do not copy, display, perform, distribute or redistribute this
-electronic work, or any part of this electronic work, without
-prominently displaying the sentence set forth in paragraph 1.E.1 with
-active links or immediate access to the full terms of the Project
-Gutenberg-tm License.
-
-1.E.6. You may convert to and distribute this work in any binary,
-compressed, marked up, nonproprietary or proprietary form, including
-any word processing or hypertext form. However, if you provide access
-to or distribute copies of a Project Gutenberg-tm work in a format
-other than "Plain Vanilla ASCII" or other format used in the official
-version posted on the official Project Gutenberg-tm web site
-(www.gutenberg.org), you must, at no additional cost, fee or expense
-to the user, provide a copy, a means of exporting a copy, or a means
-of obtaining a copy upon request, of the work in its original "Plain
-Vanilla ASCII" or other form. Any alternate format must include the
-full Project Gutenberg-tm License as specified in paragraph 1.E.1.
-
-1.E.7. Do not charge a fee for access to, viewing, displaying,
-performing, copying or distributing any Project Gutenberg-tm works
-unless you comply with paragraph 1.E.8 or 1.E.9.
-
-1.E.8. You may charge a reasonable fee for copies of or providing
-access to or distributing Project Gutenberg-tm electronic works
-provided that
-
-* You pay a royalty fee of 20% of the gross profits you derive from
-  the use of Project Gutenberg-tm works calculated using the method
-  you already use to calculate your applicable taxes. The fee is owed
-  to the owner of the Project Gutenberg-tm trademark, but he has
-  agreed to donate royalties under this paragraph to the Project
-  Gutenberg Literary Archive Foundation. Royalty payments must be paid
-  within 60 days following each date on which you prepare (or are
-  legally required to prepare) your periodic tax returns. Royalty
-  payments should be clearly marked as such and sent to the Project
-  Gutenberg Literary Archive Foundation at the address specified in
-  Section 4, "Information about donations to the Project Gutenberg
-  Literary Archive Foundation."
-
-* You provide a full refund of any money paid by a user who notifies
-  you in writing (or by e-mail) within 30 days of receipt that s/he
-  does not agree to the terms of the full Project Gutenberg-tm
-  License. You must require such a user to return or destroy all
-  copies of the works possessed in a physical medium and discontinue
-  all use of and all access to other copies of Project Gutenberg-tm
-  works.
-
-* You provide, in accordance with paragraph 1.F.3, a full refund of
-  any money paid for a work or a replacement copy, if a defect in the
-  electronic work is discovered and reported to you within 90 days of
-  receipt of the work.
-
-* You comply with all other terms of this agreement for free
-  distribution of Project Gutenberg-tm works.
-
-1.E.9. If you wish to charge a fee or distribute a Project
-Gutenberg-tm electronic work or group of works on different terms than
-are set forth in this agreement, you must obtain permission in writing
-from both the Project Gutenberg Literary Archive Foundation and The
-Project Gutenberg Trademark LLC, the owner of the Project Gutenberg-tm
-trademark. Contact the Foundation as set forth in Section 3 below.
-
-1.F.
-
-1.F.1. Project Gutenberg volunteers and employees expend considerable
-effort to identify, do copyright research on, transcribe and proofread
-works not protected by U.S. copyright law in creating the Project
-Gutenberg-tm collection. Despite these efforts, Project Gutenberg-tm
-electronic works, and the medium on which they may be stored, may
-contain "Defects," such as, but not limited to, incomplete, inaccurate
-or corrupt data, transcription errors, a copyright or other
-intellectual property infringement, a defective or damaged disk or
-other medium, a computer virus, or computer codes that damage or
-cannot be read by your equipment.
-
-1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
-of Replacement or Refund" described in paragraph 1.F.3, the Project
-Gutenberg Literary Archive Foundation, the owner of the Project
-Gutenberg-tm trademark, and any other party distributing a Project
-Gutenberg-tm electronic work under this agreement, disclaim all
-liability to you for damages, costs and expenses, including legal
-fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
-LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
-PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
-TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
-LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
-INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
-DAMAGE.
-
-1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
-defect in this electronic work within 90 days of receiving it, you can
-receive a refund of the money (if any) you paid for it by sending a
-written explanation to the person you received the work from. If you
-received the work on a physical medium, you must return the medium
-with your written explanation. The person or entity that provided you
-with the defective work may elect to provide a replacement copy in
-lieu of a refund. If you received the work electronically, the person
-or entity providing it to you may choose to give you a second
-opportunity to receive the work electronically in lieu of a refund. If
-the second copy is also defective, you may demand a refund in writing
-without further opportunities to fix the problem.
-
-1.F.4. Except for the limited right of replacement or refund set forth
-in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO
-OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
-LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
-
-1.F.5. Some states do not allow disclaimers of certain implied
-warranties or the exclusion or limitation of certain types of
-damages. If any disclaimer or limitation set forth in this agreement
-violates the law of the state applicable to this agreement, the
-agreement shall be interpreted to make the maximum disclaimer or
-limitation permitted by the applicable state law. The invalidity or
-unenforceability of any provision of this agreement shall not void the
-remaining provisions.
-
-1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
-trademark owner, any agent or employee of the Foundation, anyone
-providing copies of Project Gutenberg-tm electronic works in
-accordance with this agreement, and any volunteers associated with the
-production, promotion and distribution of Project Gutenberg-tm
-electronic works, harmless from all liability, costs and expenses,
-including legal fees, that arise directly or indirectly from any of
-the following which you do or cause to occur: (a) distribution of this
-or any Project Gutenberg-tm work, (b) alteration, modification, or
-additions or deletions to any Project Gutenberg-tm work, and (c) any
-Defect you cause.
-
-Section 2. Information about the Mission of Project Gutenberg-tm
-
-Project Gutenberg-tm is synonymous with the free distribution of
-electronic works in formats readable by the widest variety of
-computers including obsolete, old, middle-aged and new computers. It
-exists because of the efforts of hundreds of volunteers and donations
-from people in all walks of life.
-
-Volunteers and financial support to provide volunteers with the
-assistance they need are critical to reaching Project Gutenberg-tm's
-goals and ensuring that the Project Gutenberg-tm collection will
-remain freely available for generations to come. In 2001, the Project
-Gutenberg Literary Archive Foundation was created to provide a secure
-and permanent future for Project Gutenberg-tm and future
-generations. To learn more about the Project Gutenberg Literary
-Archive Foundation and how your efforts and donations can help, see
-Sections 3 and 4 and the Foundation information page at
-www.gutenberg.org
-
-
-
-Section 3. Information about the Project Gutenberg Literary Archive Foundation
-
-The Project Gutenberg Literary Archive Foundation is a non profit
-501(c)(3) educational corporation organized under the laws of the
-state of Mississippi and granted tax exempt status by the Internal
-Revenue Service. The Foundation's EIN or federal tax identification
-number is 64-6221541. Contributions to the Project Gutenberg Literary
-Archive Foundation are tax deductible to the full extent permitted by
-U.S. federal laws and your state's laws.
-
-The Foundation's principal office is in Fairbanks, Alaska, with the
-mailing address: PO Box 750175, Fairbanks, AK 99775, but its
-volunteers and employees are scattered throughout numerous
-locations. Its business office is located at 809 North 1500 West, Salt
-Lake City, UT 84116, (801) 596-1887. Email contact links and up to
-date contact information can be found at the Foundation's web site and
-official page at www.gutenberg.org/contact
-
-For additional contact information:
-
-    Dr. Gregory B. Newby
-    Chief Executive and Director
-    gbnewby@pglaf.org
-
-Section 4. Information about Donations to the Project Gutenberg
-Literary Archive Foundation
-
-Project Gutenberg-tm depends upon and cannot survive without wide
-spread public support and donations to carry out its mission of
-increasing the number of public domain and licensed works that can be
-freely distributed in machine readable form accessible by the widest
-array of equipment including outdated equipment. Many small donations
-($1 to $5,000) are particularly important to maintaining tax exempt
-status with the IRS.
-
-The Foundation is committed to complying with the laws regulating
-charities and charitable donations in all 50 states of the United
-States. Compliance requirements are not uniform and it takes a
-considerable effort, much paperwork and many fees to meet and keep up
-with these requirements. We do not solicit donations in locations
-where we have not received written confirmation of compliance. To SEND
-DONATIONS or determine the status of compliance for any particular
-state visit www.gutenberg.org/donate
-
-While we cannot and do not solicit contributions from states where we
-have not met the solicitation requirements, we know of no prohibition
-against accepting unsolicited donations from donors in such states who
-approach us with offers to donate.
-
-International donations are gratefully accepted, but we cannot make
-any statements concerning tax treatment of donations received from
-outside the United States. U.S. laws alone swamp our small staff.
-
-Please check the Project Gutenberg Web pages for current donation
-methods and addresses. Donations are accepted in a number of other
-ways including checks, online payments and credit card donations. To
-donate, please visit: www.gutenberg.org/donate
-
-Section 5. General Information About Project Gutenberg-tm electronic works.
-
-Professor Michael S. Hart was the originator of the Project
-Gutenberg-tm concept of a library of electronic works that could be
-freely shared with anyone. For forty years, he produced and
-distributed Project Gutenberg-tm eBooks with only a loose network of
-volunteer support.
-
-Project Gutenberg-tm eBooks are often created from several printed
-editions, all of which are confirmed as not protected by copyright in
-the U.S. unless a copyright notice is included. Thus, we do not
-necessarily keep eBooks in compliance with any particular paper
-edition.
-
-Most people start at our Web site which has the main PG search
-facility: www.gutenberg.org
-
-This Web site includes information about Project Gutenberg-tm,
-including how to make donations to the Project Gutenberg Literary
-Archive Foundation, how to help produce our new eBooks, and how to
-subscribe to our email newsletter to hear about new eBooks.
-
+*** END OF THE PROJECT GUTENBERG EBOOK 59651 ***
